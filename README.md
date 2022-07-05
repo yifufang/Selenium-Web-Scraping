@@ -1,4 +1,11 @@
 # Web Scraping Project
+To use the bot, Python 3, and selenium package needs to be installed.
+    
+    pip install selenium
+
+run the corresponding bot by going to the directory and run
+    
+    python run.py
 
 ### WebBot
 
